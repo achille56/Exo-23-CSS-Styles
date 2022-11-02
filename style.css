@@ -1,1 +1,32 @@
+body{
+    font-family: Helvetica Arial sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+}
 
+h1{
+    font-family: Helvetica Arial sans-serif;
+    font-size: 18px;
+    color:#454545;
+    font-weight: bold;
+}
+
+h1, p{
+    text-decoration: #7a7a7a;
+}
+
+blockquote{
+    font-family: italic sans-serif;
+    font-size: 14px;
+    background-color: #e7f2fa;
+    color: #444;
+}
+
+a{
+    color: #8870ff;
+}
+
+p{
+    margin: 10px;
+    padding: 5px;
+}
